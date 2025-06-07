@@ -1,1 +1,2 @@
 # l3das22_task2
+This repository contains a solution for L3DAS22 Task 2, which focuses on 3D Sound Event Localization and Detection (SELD) using binaural audio data. The goal is to identify and locate multiple overlapping sound events in space and time. The project explores spatial audio processing techniques, deep learning models, and evaluation metrics designed for real-world acoustic scenes. It serves as a valuable resource for researchers and practitioners working on spatial sound analysis.
